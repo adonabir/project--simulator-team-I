@@ -10,3 +10,5 @@
  
  ## Version 1.3
 - Added department field to Student structure.
+
+   - Bonus-2: Added SPI alert notification message documentation
